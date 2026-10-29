@@ -1,1 +1,1 @@
-# Electronics-and-Electricity---Lab
+# Electronics-Lab
